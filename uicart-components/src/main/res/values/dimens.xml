@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="std_padding_16">16dp</dimen>
+    <dimen name="text_size_10px">10sp</dimen>
+    <dimen name="text_size_11px">11sp</dimen>
+    <dimen name="text_size_12px">12sp</dimen>
+    <dimen name="text_size_13px">13sp</dimen>
+    <dimen name="text_size_15px">15sp</dimen>
+    <dimen name="text_size_16px">16sp</dimen>
+    <dimen name="text_size_20px">20sp</dimen>
+    <dimen name="text_size_24px">24sp</dimen>
+    <dimen name="text_size_28px">28sp</dimen>
+    <dimen name="text_size_32px">32sp</dimen>
+
+</resources>

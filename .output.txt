@@ -1,0 +1,1248 @@
+Command finished with exit code 0.
+Command output:
+* 01a4fdb Initial Commit
+| *   877a9b4 On epic/productcardv2: !!GitHub_Desktop<epic/productcardv2>
+| |\  
+| | * e832233 index on epic/productcardv2: 9ff5091 Merge remote-tracking branch 'origin/develop' into epic/productcardv2
+| |/  
+| *   9ff5091 Merge remote-tracking branch 'origin/develop' into epic/productcardv2
+| |\  
+| |/  
+|/|   
+* | 7cc8ac9 [QAE-32172] update Ui cart version
+* | 74bdb2e [QAE-32172] Update page verification for login pages
+* | 7c45ea4 CMM-9648: Android only: Gradle 9.0 Upgrade Across App, Core Modules, Dependencies, and CI Pipeline
+| * d956ca9 Update uicartAndroid version to 1.6.0.0-rc2
+| *   3c2e815 Merge branch 'develop' into epic/productcardv2
+| |\  
+| |/  
+|/|   
+* | a8e7584 [QAE-32127] Added id's and updated login flow pages
+| * db89943 Update UICIconButton to handle custom tints with state-aware alpha
+| * 37fe1af Update uicartAndroid version to 1.6.0.0-rc1
+| * 7a35d4d feat: add store location details to product queries and UI components
+|/  
+| * f1d5757 CMM-10154:Recipe Category Card Component and shimmer
+| * 36ea408 CMM-10154:Recipe Category Card Component and shimmer
+| * 6d422c3 CMM-10154:Recipe Category Card Component and shimmer
+| * c547198 Version Updates
+| * d69b60d CMM-10163: Android: (2) Recipe navigation entry point - Part 1
+| * 5a77e10 CMM-10163: Android: (2) Recipe navigation entry point - Part 1
+| * 53a2ac2 version update
+|/  
+* a4df885 fix: update uicart-components version to 1.4.1.0
+* 02ea0ad fix: update version to 1.4.0.2 and adjust uicartAndroid version to 1.4.0.1
+* f62cdb4 refactor: move splash background color to dedicated Splash theme category
+* 711c5a7 build: update project versions to 1.4.0.0 and upgrade Apollo to 5.0.0
+*   0f300ab Merge branch 'develop' into refactor/onboarding
+|\  
+| * 783e8b5 fix: refine fulfillment availability handling and update version to 1.3.2.23
+| * 86e1e87 Removed harold
+* | 33a0880 fix: update version to 1.4.0.0-rc14
+* | ad98019 fix: adjust button border padding and clean up unused layout constants
+* |   bb595c3 Merge branch 'develop' into feature/CMM-9468-Android-Integrate-Onboarding-to-fulfillment-module-(19)
+|\ \  
+* | | 7056c9f * CMM - 9934 * Version updated
+* | | d06f7b5 * CMM-9934 - Updated Splash Bg in color tokens
+* | |   c5140e2 Merge branch 'develop' into refactor/onboarding
+|\ \ \  
+* | | | 6601558 fix: update version numbers to 1.4.0.0-rc17 and 1.4.0.0-rc12 in build.gradle.kts and libs.versions.toml
+* | | | 7a95e33 fix: update version numbers to 1.4.0.0-rc14 and 1.4.0.0-rc11 in build.gradle.kts and libs.versions.toml
+* | | | d5f28b2 CMM-9935
+* | | | 9f9a597 build number updates
+* | | |   c568d17 Merge remote-tracking branch 'origin/feature/CMM-9423-modernisation' into feature/CMM-9423-modernisation
+|\ \ \ \  
+| * | | | c26dcaf broth review comments updated
+| * | | | 4bce94a broth review comments updated
+| * | | | 219d18d version updated to 1.3.1.4 status bar changes added to uicart
+* | | | | ffe38be broth review comments updated
+* | | | | 09fd458 version updated to 1.3.1.4 status bar changes added to uicart
+| | | | | * ba11455 fix: refine fulfillment availability handling and update version to 1.3.2.23
+| | | | |/  
+| | | | * b7f245c [QAE-31676] Added tags x button
+| | | |/  
+| | | * 1e40015 fix: implement debounce logic for button and toggle click actions to prevent...
+| | | | *   f3bd844 Merge branch 'develop' into bugfix/CMM-10127-Joevs-Tapping-on-Account-section-links-displaying-Twice
+| | | | |\  
+| | | | |/  
+| | | |/|   
+| | | * | 0cbf906 [CMM-10127] Bugfix: implement debounce logic for button and toggle click actions to prevent...
+| | |/ /  
+| | | * 71b3a42 fix: simplify onClick handling in Section components for stable recomposition
+| | | * 7710891 fix: simplify onClick handling in Section components for stable recomposition
+| | | * 62ff9bd fix: implement shared debounced click utility across button components
+| | | * e77e781 fix: update version to 1.3.2.21 and adjust uicartAndroid version to 1.3.2.4
+| | | * 2872d5f fix: refactor debounced click handling in ActionCard and LocationCard
+| | | * 45e1519 fix: implement debounce logic for button and toggle click actions to prevent rapid successive invocations
+| | |/  
+| | * 7dbde03 fix: update version to 1.3.2.19 and adjust uicartAndroid version to 1.3.2.3
+| |/  
+| | * e28dd76 fix: update version to 1.3.2.19 and adjust uicartAndroid version to 1.3.2.3
+| |/  
+| | * 545ac75 version updated to rc10
+| | * cf4ae12 1. Status bar color change global logic implemented 2. WindowInsets added as param for toppappbar componenet and UICScaffold.kt 3. version updated for uicart
+| |/  
+|/|   
+* | a229ec9 feat: add ButtonsSection composable and integrate into LocationPermissionScreen
+* | 88b601f feat: add ButtonsSection composable and integrate into LocationPermissionScreen
+* | 96878f3 * version upgrade
+* |   be8c824 Merge remote-tracking branch 'origin/refactor/onboarding' into refactor/onboarding
+|\ \  
+| * | 3aefeb1 Merge branch 'develop' into refactor/onboarding
+| |\| 
+* | | 36208d2 Merge remote-tracking branch 'origin/refactor/onboarding' into refactor/onboarding
+|\| | 
+| * | 2911cb9 chore: bump version to 1.4.0.0-rc6 in build.gradle.kts and libs.versions.toml
+* | | b5c7761 chore: update version name and code to 1.4.0.0-rc5
+* | | 28c3ed6 chore: remove obsolete Mitienda debug assembly and string resource validation from CI configuration
+* | | ec42693 build: update project versions and increase Gradle memory limits
+* | | 7dab5d3 feat: Refactor SSO onboarding flow and rename core UI buttons
+* | | 0548abe refactor: remove deprecated API requirements and improve dark mode handling
+| |/  
+|/|   
+* | fcf6495 CMM-9954 Android: User is able to select timeslot and navigates to checkout page even when the cart is empty.fix: prevent checkout flow when cart is empty
+* | dc0ef2d build: bump version to 1.3.2.7 and update dependency versions
+* | 26c7262 feat: update normal timeslot section in TimeSlotSelectorScreen
+* | cfb25bb feat: refactor TimeSlotSelectorScreen and update info color tokens
+* | 19ddf2f CMM-9866
+| | * 6b5646a chore: update version to 1.4.0.0-rc7
+| |/  
+| * 74c964d chore: update version name and code to 1.4.0.0-rc5
+| * a160022 chore: remove obsolete Mitienda debug assembly and string resource validation from CI configuration
+| * a27e74c CMM-9407_UIC
+| | * 214a436 CMM-9668: Android: Spike - Assess Agentic Skills to Support Modernization Guardrails and Code Quality
+| |/  
+|/|   
+* | 74451e2 Either: Integrate Broth/SproutAI/Harold AI for L1 Code Review - Updated harolai pipeline job and file name - Added new script for label update once review is completed
+* | 933bea2 build: update core and uicart-android dependency versions
+* | 22ca4bc [QAE-31397] Finished modeling AddressBook and adding tags
+* | d1d87f0 [QAE-31397] Added tags for AddressBookPage still progress
+| | * a84725a Merge branch 'develop' into CMM-9407_UIC
+| |/| 
+| |/  
+|/|   
+| * ed6ccfb build: update project versions and increase Gradle memory limits
+| * 7713882 feat: Refactor SSO onboarding flow and rename core UI buttons
+| * ec2df97 refactor: remove deprecated API requirements and improve dark mode handling
+| | * 16c8314 build number updated
+| | *   be3355f Merge remote-tracking branch 'origin/CMM-9491-uicart' into CMM-9491-uicart
+| | |\  
+| | | * ca0ec6d 1. bug fixes 2. UICBottomModalSheet.kt Launch Effect logic changed for visibility management 3. CartFragment.kt updated with visibility logic
+| | | * 2825e2e 1. UICBottomModalSheet.kt component height and fill issue fixed
+| | |/  
+| |/|   
+| | * 2feddd5 1. bug fixes 2. UICBottomModalSheet.kt Launch Effect logic changed for visibility management 3. CartFragment.kt updated with visibility logic
+| | * 15a62cf 1. UICBottomModalSheet.kt component height and fill issue fixed
+| |/  
+|/|   
+* | bee1d08 CMM-9840 Add code review trigger for merge requests
+|/  
+*   72266e9 Merge remote-tracking branch 'origin/Cmm-9665-Uicart' into Cmm-9665-Uicart
+|\  
+| * d9e4129 Update MT UI colors
+* | 45a8e96 Update MT UI colors
+| | * 5bdb06a feat: add Gradle convention plugins for Android library and Compose support
+| |/  
+|/|   
+* | 437b53f version update
+* |   2c340d3 Merge remote-tracking branch 'origin/CMM-9491-uicart' into CMM-9491-uicart
+|\ \  
+| * | 72fdf35 1. Height default value corrections
+| * |   91c6a49 Merge remote-tracking branch 'origin/CMM-9491-uicart' into CMM-9491-uicart
+| |\ \  
+| | * | c0a1e8e 1. BottomModal review cart screen height params passed to the UICBottomModalSheet
+| | * | 883b458 1. BottomModal Sheet Height params updated to use it everywhere - default height set to 90%
+| | * | ba780e1 1. BottomModal Sheet Height params updated to use it everywhere
+| | * | c877ceb Mitienda loader added Code change applied to the CircularLoading Components
+| | * | 15db838  Removed wrong commit and updated the branch
+| | |/  
+| * | 0e4ef6a 1. BottomModal review cart screen height params passed to the UICBottomModalSheet
+| * | 59d87d9 1. BottomModal Sheet Height params updated to use it everywhere - default height set to 90%
+| * | 3544ff6 1. BottomModal Sheet Height params updated to use it everywhere
+* | | 34763af 1. Height default value corrections
+* | | cd448a9 1. BottomModal review cart screen height params passed to the UICBottomModalSheet
+* | | 1136bb7 1. BottomModal Sheet Height params updated to use it everywhere - default height set to 90%
+* | | d928940 1. BottomModal Sheet Height params updated to use it everywhere
+* | | ab5244e feat: update version to 1.4.0.0-rc1 for core and uicartAndroid libraries
+* | | 638176a Merge branch 'refs/heads/develop' into CMM-9405_UIC
+|\| | 
+| * | afd75fd Fixed an issue with onDestroy getting called multiple times causing an observation from Google play console while review
+* | | 74141fe chore: bump version to 1.3.1.5 in build.gradle.kts
+* | | 737d21d Merge branch 'develop' into CMM-9405_UIC
+|\| | 
+| * | 3266cd8 chore: Update core and uicartAndroid versions to 1.3.1.10 and 1.3.1.4
+| * | 2535c05 Update version and refactor fulfillment time slot logic and bottom sheet height
+| * | 4f690a2 [CMM-9491]: UICBottomSheetModal component updated related to the CMM9491 ticket
+* | | b5ab5f0 Update TertiaryButton to use widthIn for dynamic sizing
+|/ /  
+* | 9dfc8a9 updated version
+* | be6e5f4 [CMM-9564] Mitienda brand related changes in the UI Loader
+* | 09463e9 Google Map & Google Place SDK update
+|/  
+* 9f7adce UICART 1.3.1.0
+* 5d4e14e Cmm 9534 uicart-Android: When no time slot is selected, Select a timeslot should be disabled
+* 6c7e1f5 [QAE-31453] Modeled DiscardModal, FulfillmentPage, and TimeSlotPage
+* c8fbb12 CMM-9541 Fix - Address book Ways to shop header is expanding
+* 0ac649d CMM-9533
+* bc2f8f6 CMM-9397_UIC
+| * 73267b4 Update Gradle wrapper to version 9.4.1
+| * 9e14cde Update dependencies and Gradle configuration for AGP 9.1.0 and Gradle 9.3.1; remove kotlinAndroid plugin; bump version to 1.3.1.1
+| * 71cdf22 Update version to 1.3.0.9 in build configuration
+| * 06ab89a Update version to 1.3.0.8 and trigger navListener when address book listing is opened
+| | * 93a3148 CMM-9533
+| |/  
+|/|   
+| | * 6bb70e0 JV Latest release: 1942 (2.50.0) - Improve delivery address loading and fix MapSnapShot jitter
+| |/  
+|/|   
+* | a1a6ede [QAE-31436] Added tags
+|/  
+| * cb2fd0a JV Latest release: 1428 (2.45.0) Preprod Issue - Update address country fallback to "US" and improve text field selection handling for phone input
+|/  
+* 46f0999 Update version for uicart-components and cm-core-modules
+* 0d0fdbc Update delivery unavailable description for JV app flavor and refactor UICInputTextField logic
+* f9a7023 feat: update version numbers for core and uicartAndroid dependencies to 1.3.0.0
+* 6247ce2 feat: implement "hold in place" transitions and standardize navigation animations
+* 0da4cdc Refactor: Update fulfillment option handling and improve text styling in TimeSlotSelectionScreen
+| *   4a7c400 Merge branch 'develop' into CMM-9360_UIC
+| |\  
+| |/  
+|/|   
+* | 5b9162e Refactor: Update fulfillment option handling and improve text styling in TimeSlotSelectionScreen
+| * 83d7645 feat: Bump version to 1.1.2.5 in uicart-components and 1.1.2.6 in core modules
+| * 8161779 Refactor: Update version number and enhance modifier handling in TextView components
+| * 1f47411 Refactor: Update fulfillment option handling and improve text styling in TimeSlotSelectionScreen
+|/  
+* 4847b89 feat: Improve address line handling in LocationCard for better null and blank checks
+* eadaa27 Update `uicart-components` version to 1.1.1.4 and add API compatibility annotations
+*   7263461 Merge branch 'develop' into CMM-9248_UIC
+|\  
+| * fd9f0e0 CMM-9183
+* | 52dee71 Implement fulfillment time slot reservation expiry countdown and UI warnings
+* | 8f54571 Implement fulfillment time slot reservation expiry countdown and UI warnings
+* | 74006e9 Refactor `UICHorizontalDateSelectorShimmer` to improve item count handling
+* | a88fc70 Refine time slot date range calculation and selection UI
+|/  
+* e929e30 Enhance fulfillment time slot selection and refine account UI
+* 38c1ce8 CMM-9209 Android : [Integrate] Time Slot Selection Screen
+| * c91d681 Refactor Android publication configuration in `uicart-components`
+| * a7bec59 Update `uicart-components` version to 1.1.1.3
+| * 7176ade Implement gift information modal and integrate gifting configurations from Contentful
+| * a7e5e25 Refactor fulfillment time slot availability and reservation expiry logic
+|/  
+* 6ad0022 CMM-9122-Android: (4) [Integrate] Fulfillment Selection Screen (Delivery) Refactor fulfillment selection UI and enhance delivery/pickup content handling
+| * 61080ff Update `uicart-components` version to 1.1.1.2
+| * 80e31bd Enhance date selector decoration logic and UI component properties
+| * 309a1f1 Implement time slot reservation and persistence of reservation expiry
+| * df9fe63 Enhance fulfillment time slot selection and UI interactions
+| * 86fe2a2 Enhance Time Slot selection with sectioned list and shimmer loading
+| * 9545289 Enhance TimeSlot selection UI and refactor repository architecture
+| * 0c5fe0d Implement TimeSlotSelectionScreen and refactor date/time components
+| * 7c37e55 Implement time slot selection navigation and screen
+| * 6a2562e Update `UICFeedback` component and integrate gift order notification in fulfillment flow
+| * 6a8b2fd Refactor fulfillment selection UI and enhance delivery/pickup content handling
+|/  
+* d146dfd Updated version to 1.1.1.1 in uicart-components build configuration
+* 5983f86 [Integrate] Fulfillment Selection Screen (In-store & Pickup) - UIC Changes
+| *   42ec216 Merge branch 'develop' into CMM-9121_UIC
+| |\  
+| |/  
+|/|   
+* | 8828595 Cmm 9201 uic - addressbook error fix
+* | 7a85ad1 Cmm 9201 Address book not throwing correct error message
+* |   ab4170f Merge Conflict resolution
+|\ \  
+| * \   f9d526c Merge remote-tracking branch 'origin/CMM-9094' into CMM-9094
+| |\ \  
+| | * | d4fb56d 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+| | * | c22eab6 1. UX review comments updated and logic improvements
+| | * | cd0dd19 1- Review comments updated and pushed.
+| | * | 36852d9 1- Review comments updated and pushed.
+| | * | fd16138 CMM-9093 Fulfillment Toggle + Header  Open
+| | * | 3765c60 Cursor point at end while focus restore
+| | * | 1c63a9f Android: [Integrate] (3) Add New Address Screen
+| | * | e60abee 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+| | * | 48cd57d 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+| | * | cc51fb3 1. build number updated and warning cleared
+| | * | 11e2305 1. UX review comments updated and logic improvements
+| | * | 5696d7d 1. UX review comments updated and logic improvements
+| | * | 4f42c75 1. UX review comments updated and logic improvements
+| | * | 7ea5ed9 1- Review comments updated and pushed.
+| | * | b6623ba 1. Date selector view item created. 2. Customisable options added 3. Supportive classes created 4. New Color tokens defined 5. Horizontal view designed, 6. Demo screen created 7. Navigations added
+| | * | 1f03c90 1. Optimised Imports 2. Fulfilment screen updated 3. Action card screen added 4. Time Slot screen added to fulfilment.
+| | * | d0c0f6b 1. Optimized import and build number updates
+| | * | 9e2f4ca 1. Shimmer updates
+| | * | a8dda56 1. Review Comments updated
+| | * | 6c8e43c 1- Color modifications as per ht ereview completed. 2. Fulfillment contents updated in the demo app 3. Radio button component changes implemented. 4. review comments updated. 5. Optimized imports 6. build number changed.
+| | * | 885fcc4 1- component colors altered 2. Loading state implemented 3. K-Doc Added 4. optimized imports 5. Demo Screen completed 6. modification options added
+| | * | b8b6415 1- component colors added 2. height values udated 3. component basic design and params addded
+| | * | c4bf629 1- Time Slot component base created
+| | * | 762a2b8 Cursor point at end while focus restore
+| | * | cd143f8 Android: [Integrate] (3) Add New Address Screen
+| | * | 93bf136 1. build number updated and warning cleared
+| | * | 50b20f0 1. UX review comments updated and logic improvements
+| | * | 0c647f1 1. UX review comments updated and logic improvements
+| | * | dcd4869 1- Review comments updated and pushed.
+| | * | b19816a Uic v 1.1.0.0 addressbook
+| | * | 0c3c58c Cursor point at end while focus restore
+| | * | c9b883b Android: [Integrate] (3) Add New Address Screen
+| | * | b9f577c 1. UX review comments updated and logic improvements
+| | * | 0a470e0 1. UX review comments updated and logic improvements
+| | * | 8a236dd Cursor point at end while focus restore
+| | * | 015ce98 Android: [Integrate] (3) Add New Address Screen
+| | * | d4a5b1b 1- Review comments updated and pushed.
+| | * | 3d174f4 Android: [Integrate] (3) Add New Address Screen
+| | * | 3c47282 CMM-9046 * Action card component , Fulfilment page updates
+| | * | a9111b9 Cursor point at end while focus restore
+| | * | 8165fcb Android: [Integrate] (3) Add New Address Screen
+| | * | ea1deb6 CMM-9112
+| | * | d5df52e version update
+| | * | d49f7d1 Resolved the review comments
+| | * | 0c431da Added voiceover for close button
+| | * | 9ee5955 Enhancements to Feedback View
+| | * | 3c4628e Cursor point at end while focus restore
+| | * | 3da397e Android: [Integrate] (3) Add New Address Screen
+| | * | d6ff25a CMM-9047-[UI Cart] Enhancements to Location Details
+| | * | 2fad693 CMM-9047-[UI Cart] Enhancements to Location Details
+| | * | 8e06e49 Updated the icon size
+| | * | 7a9556f Resolved the review comments
+| | * | 02609f5 Added voiceover for close button
+| | * | 9567441 Enhancements to Feedback View
+| | * | 1c5f43a Phone number formating fix
+| | * | e4ce403 Address edit flow changes
+| | * | f36a76a Cursor point at end while focus restore, UIC text input field changes
+| | * | 08611a0 Cursor point at end while focus restore
+| * | | 8967466 1. MR Conflicts updated
+| * | | 26b5fbf 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+| * | | db83656 1- Review comments updated and pushed.
+| * | | 008926a 1- Review comments updated and pushed.
+| * | | 1707cbf Cursor point at end while focus restore
+| * | | 4a2f3f1 Android: [Integrate] (3) Add New Address Screen
+| * | | 1fc4ff2 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+| * | | a20367b 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+| * | | 63ccca7 1. build number updated and warning cleared
+| * | | 1093350 1. UX review comments updated and logic improvements
+| * | | 5ce841f 1. UX review comments updated and logic improvements
+| * | | 77ed989 1- Review comments updated and pushed.
+| * | | 06c5ec8 1. Date selector view item created. 2. Customisable options added 3. Supportive classes created 4. New Color tokens defined 5. Horizontal view designed, 6. Demo screen created 7. Navigations added
+| * | | d4eaec7 1. Optimised Imports 2. Fulfilment screen updated 3. Action card screen added 4. Time Slot screen added to fulfilment.
+| * | | 323f22d 1. Optimized import and build number updates
+| * | | 398b0c0 1. Shimmer updates
+| * | | e406cbd 1. Review Comments updated
+| * | | e71dd82 1- Color modifications as per ht ereview completed. 2. Fulfillment contents updated in the demo app 3. Radio button component changes implemented. 4. review comments updated. 5. Optimized imports 6. build number changed.
+| * | | 2926545 1- component colors altered 2. Loading state implemented 3. K-Doc Added 4. optimized imports 5. Demo Screen completed 6. modification options added
+| * | | 1138ccb 1- component colors added 2. height values udated 3. component basic design and params addded
+| * | | 633fc54 1- Time Slot component base created
+| * | | 342a00a Cursor point at end while focus restore
+| * | | b3444ba Android: [Integrate] (3) Add New Address Screen
+| * | | 403deae 1. build number updated and warning cleared
+| * | | 88b36e8 1. UX review comments updated and logic improvements
+| * | | 3da1614 1. UX review comments updated and logic improvements
+| * | | fb84b21 1- Review comments updated and pushed.
+| * | | aec6c74 Cursor point at end while focus restore
+| * | | 5561cae Android: [Integrate] (3) Add New Address Screen
+| * | | 843cbd2 1. UX review comments updated and logic improvements
+| * | | 22acb75 1. UX review comments updated and logic improvements
+| * | | 5da841d Cursor point at end while focus restore
+| * | | bf4e96d Android: [Integrate] (3) Add New Address Screen
+| * | | 180b36c 1- Review comments updated and pushed.
+| * | | 6595796 Android: [Integrate] (3) Add New Address Screen
+| * | | ad2e39c 1- Build number updated
+| * | | a2cb303 1- Color changes for focus color
+| * | | d333bfc 1- Import optimization
+| * | | 3c2c3e0 1- Review comments updated and pushed.
+| * | | 8bcdc6c K-Doc Comments added
+| * | | 7a1a84f 1. Demo App customisations added 2. Small color changes 3. Component loader customisations 4. Component state changes implemented
+| * | | 68ccee7 1. Shimmer updated
+| * | | 7979432 1. Vector image added
+| * | | 8f7f3da 1. Date selector view item created. 2. Customisable options added 3. Supportive classes created 4. New Color tokens defined 5. Horizontal view designed, 6. Demo screen created 7. Navigations added
+| * | | a9295e6 1. DateSelectorView.kt component base class created with basic design
+* | | | 8c7ac2d 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+* | | | 17410d8 1- Review comments updated and pushed.
+* | | | 14b07f1 1- Review comments updated and pushed.
+* | | | 5469945 Cursor point at end while focus restore
+* | | | 117139f Android: [Integrate] (3) Add New Address Screen
+* | | | 841f698 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+* | | | 62466ed 1. build number updated and warning cleared
+* | | | 338f0ec 1. UX review comments updated and logic improvements
+* | | | c166408 1. UX review comments updated and logic improvements
+* | | | 79f5b24 1- Review comments updated and pushed.
+* | | | 157b9fd Cursor point at end while focus restore
+* | | | 59ad91c Android: [Integrate] (3) Add New Address Screen
+* | | | eabf881 1. build number updated and warning cleared
+* | | | 22ab098 1. UX review comments updated and logic improvements
+* | | | 0b2039c 1. UX review comments updated and logic improvements
+* | | | 0f8ec11 1- Review comments updated and pushed.
+* | | | 2f4ac3a Cursor point at end while focus restore
+* | | | 002a6d1 Android: [Integrate] (3) Add New Address Screen
+* | | | d7dc625 1. UX review comments updated and logic improvements
+* | | | 1c3a11b Cursor point at end while focus restore
+* | | | fbc584e Android: [Integrate] (3) Add New Address Screen
+* | | | 2890412 1- Review comments updated and pushed.
+* | | | 49523da Android: [Integrate] (3) Add New Address Screen
+* | | | a070af9 Resolved the review comments
+* | | | 52e9871 Added voiceover for close button
+* | | | 3ccb7b9 Enhancements to Feedback View
+* | | | 366a9a0 CMM-9047-[UI Cart] Enhancements to Location Details
+* | | | c1e8884 1- Color changes for focus color
+* | | | f8dfb64 1- Import optimization
+* | | | 5a69564 1- Review comments updated and pushed.
+* | | | ca18955 K-Doc Comments added
+* | | | 9437735 1. Demo App customisations added 2. Small color changes 3. Component loader customisations 4. Component state changes implemented
+* | | | 6674d47 1. Shimmer updated
+* | | | dc4ca4d 1. Date selector view item created. 2. Customisable options added 3. Supportive classes created 4. New Color tokens defined 5. Horizontal view designed, 6. Demo screen created 7. Navigations added
+* | | | 0c26de7 1. DateSelectorView.kt component base class created with basic design
+* | | | 2e46b41 1. MR Conflicts updated
+* | | | 87ef089 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+* | | | 40d5756 1- Review comments updated and pushed.
+* | | | 886a0e7 1- Review comments updated and pushed.
+* | | | 6c9e750 Cursor point at end while focus restore
+* | | | 1aba6eb Android: [Integrate] (3) Add New Address Screen
+* | | | 056a32f 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+* | | | 9ab1daf 1. Optimised Imports 2. Fulfilment screen updated 3. Date Selector screen added 4. Build Number updated 5. Navigations updated
+* | | | 32a788c 1. build number updated and warning cleared
+* | | | d8ff9d5 1. UX review comments updated and logic improvements
+* | | | ed9f45b 1. UX review comments updated and logic improvements
+* | | | 9bc9e8f 1- Review comments updated and pushed.
+* | | | 04b48e3 1. Date selector view item created. 2. Customisable options added 3. Supportive classes created 4. New Color tokens defined 5. Horizontal view designed, 6. Demo screen created 7. Navigations added
+* | | | b8836cd 1- Color modifications as per ht ereview completed. 2. Fulfillment contents updated in the demo app 3. Radio button component changes implemented. 4. review comments updated. 5. Optimized imports 6. build number changed.
+* | | | f18eded 1- component colors altered 2. Loading state implemented 3. K-Doc Added 4. optimized imports 5. Demo Screen completed 6. modification options added
+* | | | 9ef7d2b 1- component colors added 2. height values udated 3. component basic design and params addded
+* | | | 97642da Cursor point at end while focus restore
+* | | | 3949b70 Android: [Integrate] (3) Add New Address Screen
+* | | | abaea6b 1. build number updated and warning cleared
+* | | | 133b908 1. UX review comments updated and logic improvements
+* | | | e79be35 1. UX review comments updated and logic improvements
+* | | | c584e5b 1- Review comments updated and pushed.
+* | | | da83ad7 Cursor point at end while focus restore
+* | | | ab6da8a Android: [Integrate] (3) Add New Address Screen
+* | | | 54ad476 1. UX review comments updated and logic improvements
+* | | | 4aea7b9 1. UX review comments updated and logic improvements
+* | | | b0f94d0 Cursor point at end while focus restore
+* | | | eb73f81 Android: [Integrate] (3) Add New Address Screen
+* | | | fe41ea4 1- Review comments updated and pushed.
+* | | | 74fcdac Android: [Integrate] (3) Add New Address Screen
+* | | | 560d6d5 1- Color changes for focus color
+* | | | 4ca0934 1- Import optimization
+* | | | b9c27ac 1- Review comments updated and pushed.
+* | | | 326fccd K-Doc Comments added
+* | | | 5d76ae6 1. Demo App customisations added 2. Small color changes 3. Component loader customisations 4. Component state changes implemented
+* | | | dcdd579 1. Shimmer updated
+* | | | 92f9f0b 1. Vector image added
+* | | | 6d702e2 1. Date selector view item created. 2. Customisable options added 3. Supportive classes created 4. New Color tokens defined 5. Horizontal view designed, 6. Demo screen created 7. Navigations added
+* | | | 32f141a 1. DateSelectorView.kt component base class created with basic design
+* | | | 16e4330 1. MR Conflicts updated
+* | | |   029c7bb Merge remote-tracking branch 'origin/CMM-9095' into CMM-9095
+|\ \ \ \  
+| * | | | 035570f 1. Optimised Imports 2. Radio button alignment issue fixed. 3. Review comments updated. 4. spacing adjusted. 5. Font scaling alignment issues fixed.
+| * | | | 7b14b98 1. Optimised Imports 2. Fulfilment screen updated 3. Action card screen added 4. Time Slot screen added to fulfilment.
+| * | | | ab57d1a 1. Optimized import and build number updates
+| * | | | f51d1bd 1. Shimmer updates
+| * | | | 2eda8a5 CMM-9046 * Action card component , Fulfilment page updates
+| * | | | ec2d0a5 1. Review Comments updated
+| * | | | 902bb87 Uic v 1.1.0.0 addressbook
+| * | | | 581ec27 CMM-9046 * Action card component , Fulfilment page updates
+| * | | | 0dab68b Cursor point at end while focus restore
+| * | | | d5fc8b2 Android: [Integrate] (3) Add New Address Screen
+| * | | | aaf0563 CMM-9112
+| * | | | 6c440ac version update
+| * | | | 77158e4 1- Color modifications as per ht ereview completed. 2. Fulfillment contents updated in the demo app 3. Radio button component changes implemented. 4. review comments updated. 5. Optimized imports 6. build number changed.
+| * | | | 121dade 1- Color modifications as per ht ereview completed. 2. Fulfillment contents updated in the demo app 3. Radio button component changes implemented. 4. review comments updated. 5. Optimized imports 6. build number changed.
+| * | | | ee67030 Phone number formating fix
+| * | | | 3427db8 Address edit flow changes
+| * | | | b06775d Cursor point at end while focus restore, UIC text input field changes
+| * | | | afe073b Cursor point at end while focus restore
+| * | | | 17d79d2 1- component colors altered 2. Loading state implemented 3. K-Doc Added 4. optimized imports 5. Demo Screen completed 6. modification options added
+| * | | | 728c24a 1- component colors added 2. height values udated 3. component basic design and params addded
+| * | | | f515d27 1- Time Slot component base created
+* | | | | d981fee 1. Optimised Imports 2. Radio button alignment issue fixed. 3. Review comments updated. 4. spacing adjusted. 5. Font scaling alignment issues fixed.
+* | | | | 6890669 1. Optimised Imports 2. Fulfilment screen updated 3. Action card screen added 4. Time Slot screen added to fulfilment.
+* | | | | ea01da6 1. Optimized import and build number updates
+* | | | | 7c19dd5 1. Shimmer updates
+* | | | | 62151b1 1. Review Comments updated
+* | | | | 0f4f50d 1- Color modifications as per ht ereview completed. 2. Fulfillment contents updated in the demo app 3. Radio button component changes implemented. 4. review comments updated. 5. Optimized imports 6. build number changed.
+* | | | | 7e45ef6 1- Color modifications as per ht ereview completed. 2. Fulfillment contents updated in the demo app 3. Radio button component changes implemented. 4. review comments updated. 5. Optimized imports 6. build number changed.
+* | | | | 0632b6d 1- component colors altered 2. Loading state implemented 3. K-Doc Added 4. optimized imports 5. Demo Screen completed 6. modification options added
+* | | | | f1e4df2 1- component colors added 2. height values udated 3. component basic design and params addded
+* | | | | 0c2d930 1- Time Slot component base created
+| |/ / /  
+|/| | |   
+| | | * fb90e78 1. Added Fulfillment Selection screen UI with tabbed navigation 2. Renamed ActionCardSelectTime to ActionCard and updated references 3. Integrated Google Places API and added PlaceResult model 4. Updated Fulfillment navigation graph with slide transitions 5. Enhanced UICScaffold to support custom top bars 6. Refactored Fragment lifecycle and back navigation handling
+| |_|/  
+|/| |   
+* | | 5f3de2d CMM-9093 Fulfillment Toggle + Header  Open
+| | | * 511b017 CMM-9093 Fulfilment App Bar Toggle Header
+| | | * 5ab6eae Color Screen - Updated with new colors
+| | | * 0ae5d45 CMM-9093 Fulfillment Toggle + Header
+| | | * f37120a CMM-9093 Fulfillment Toggle + Header
+| | | * e02fc28 CMM-9093 Fulfillment Toggle + Header
+| |_|/  
+|/| |   
+* | | 2177ba5 Uic v 1.1.0.0 addressbook
+| | | * 50e82f4 CMM-9093 Fulfillment Toggle + Header - Review Comments
+| | | * ff02a76 CMM-9093 Fulfillment Toggle + Header - Review Comments
+| | | * 11f2f54 CMM-9093 Fulfillment Toggle + Header
+| | | * c11734f CMM-9093 Fulfillment Toggle + Header
+| | | * 115d2c2 CMM-9093 Fulfillment Toggle + Header
+| | | * 3bbd4aa CMM-9093 Fulfillment Toggle + Header
+| | | * 7d16c41 CMM-9093 Fulfillment Toggle + Header
+| | | * 544441f CMM-9093 Fulfillment Toggle + Header
+| | | * 72093f6 CMM-9093 Fulfillment Toggle + Header
+| | | * 31bb3e5 CMM-9093 Fulfillment Toggle + Header
+| | | * 372337c CMM-9093 Fulfillment Toggle + Header
+| | | * 430120c CMM-9093 Fulfillment Toggle + Header
+| | | * c678b05 CMM-9093 Fulfillment Toggle + Header
+| | | * 6e4e038 CMM-9093 Fulfillment Toggle + Header
+| | | * 842b0bf CMM-9093 Fulfillment Toggle + Header
+| | | * 3a7cacf CMM-9093 Fulfillment Toggle + Header
+| | | * 3bba1f6 CMM-9093 Fulfillment Toggle + Header
+| | | * 6efc446 CMM-9093 Fulfillment Toggle + Header
+| | | * a97ea29 CMM-9093 Fulfillment Toggle + Header
+| | | * dff113c CMM-9093 New colors added.
+| | |/  
+| | * 05027dc 1- Build number updated
+| | * 8562069 1- Color changes for focus color
+| | * 1c4a775 1- Import optimization
+| | * e236aa0 1- Review comments updated and pushed.
+| | * 31ac090 K-Doc Comments added
+| | * e02d30a 1. Demo App customisations added 2. Small color changes 3. Component loader customisations 4. Component state changes implemented
+| | * 9311ac8 1. Shimmer updated
+| | * 73009b7 1. Vector image added
+| | * b2d36b0 1. Date selector view item created. 2. Customisable options added 3. Supportive classes created 4. New Color tokens defined 5. Horizontal view designed, 6. Demo screen created 7. Navigations added
+| | * 2e903fd 1. DateSelectorView.kt component base class created with basic design
+| | | * 13f0cc4 Updated version from 1.0.0.12 to 1.1.0.0
+| |_|/  
+|/| |   
+* | | 76cf91a CMM-9046 * Action card component , Fulfilment page updates
+* | |   b090ee5 Merge remote-tracking branch 'origin/CMM-9112' into CMM-9112
+|\ \ \  
+| * | | 80c27e5 CMM-9112
+| * | | 05a61b0 version update
+* | | | 4fe7993 Cursor point at end while focus restore
+* | | | bce32fd Android: [Integrate] (3) Add New Address Screen
+* | | | dbb4481 CMM-9112
+* | | | f6df458 version update
+* | | |   43d3a6e Merge remote-tracking branch 'origin/develop' into CMM-8791-uic
+|\ \ \ \  
+| | |/ /  
+| |/| |   
+| * | |   feadb90 Merge branch 'develop' into CMM-9092
+| |\ \ \  
+| | | |/  
+| | |/|   
+| | * |   6347154 Merge branch 'develop' into CMM-9047
+| | |\ \  
+| | | * \   02fd73b Merge remote-tracking branch 'origin/CMM-9046' into CMM-9046
+| | | |\ \  
+| | | | * | b30c212 CMM-9046 * Action card component , UX review fix
+| | | | * | 1531781 CMM-9046 * Action card component
+| | | * | | a71f567 CMM-9046 * Action card component , UX review fix
+| | | * | | 30dafeb CMM-9046 * Action card component
+| * | | | | 8332bad Resolved the review comments
+| * | | | | 8c90e5e Added voiceover for close button
+| * | | | | aee5b00 Enhancements to Feedback View
+| * | | | | 7e99a53 CMM-9046 * Action card component , UX review fix
+| * | | | | f87c5aa CMM-9046 * Action card component , UX review fix
+| * | | | | 1732578 Cursor point at end while focus restore
+| * | | | | 5a78fdf refactor(addressbook): Relocate ViewModels and enhance edit address flow
+| * | | | | dcc3caf Android: [Integrate] (3) Add New Address Screen
+| * | | | | 1da2d83 Info icon changed
+| * | | | | cceb762 CMM-9047-[UI Cart] Enhancements to Location Details
+| * | | | | 19cc6c7 CMM-9047-[UI Cart] Enhancements to Location Details
+| * | | | | fa73db0 Updated the icon size
+| * | | | | 3fb91f2 Resolved the review comments
+| * | | | | 133e3c8 Added voiceover for close button
+| * | | | | 3c206f8 Enhancements to Feedback View
+| | |_|_|/  
+| |/| | |   
+* | | | | 1efe286 Phone number formating fix
+* | | | | cc3e140 Address edit flow changes
+* | | | | cc5a58e Cursor point at end while focus restore, UIC text input field changes
+* | | | | 4cb8366 Cursor point at end while focus restore
+| |/ / /  
+|/| | |   
+* | | | 6e447d4 Cursor point at end while focus restore
+* | | |   f6dee79 Merge remote-tracking branch 'origin/develop' into CMM-9047
+|\ \ \ \  
+| | |/ /  
+| |/| |   
+| * | | 190aba4 refactor(addressbook): Relocate ViewModels and enhance edit address flow
+* | | |   6b2b75c Merge remote-tracking branch 'origin/develop' into CMM-9047
+|\ \ \ \  
+| | |/ /  
+| |/| |   
+* | | | 9b92499 Info icon changed
+* | | | fb40ead CMM-9047-updated with review comments
+* | | |   ccd70e0 Merge remote-tracking branch 'origin/develop' into CMM-9047
+|\ \ \ \  
+| | |_|/  
+| |/| |   
+* | | | 35b69bd CMM-9047-updated with review comments
+* | | | 5971066 CMM-9047-updated with review comments
+* | | | bc9c0c7 CMM-9047-[UI Cart] Enhancements to Location Details
+* | | | 8ff5b12 CMM-9047-[UI Cart] Enhancements to Location Details
+* | | | ff5e23c CMM-9047-[UI Cart] Enhancements to Location Details
+* | | |   f11d6c6 Merge remote-tracking branch 'origin/develop' into CMM-9047
+|\ \ \ \  
+* | | | | 122d872 CMM-9047-[UI Cart] Enhancements to Location Details
+* | | | | 2c5bc20 CMM-9047-[UI Cart] Enhancements to Location Details
+| | | | | * dc289da CMM-9093 Fulfillment Toggle + Header
+| | | | | * 3dd9c01 CMM-9093 Fulfillment Toggle + Header
+| | | | | * 4b275e9 CMM-9093 Fulfillment Toggle + Header
+| | | | | * 7fa0022 CMM-9093 Fulfillment Toggle + Header
+| | | | | * fcb21f8 CMM-9093 Fulfillment Toggle + Header
+| | | | | * d8b188d CMM-9093 New colors added.
+| | | | |/  
+| | | |/|   
+| | | | | * bb12f67 refactor(uicart): Decouple `UICTextField` state from enum and improve showcase
+| | | | | *   2bf22b2 Merge branch 'develop' into CMM-8787_UIC
+| | | | | |\  
+| | | | | |/  
+| | | | |/|   
+| | | | * | 1cafb01 Android: [Integrate] (3) Add New Address Screen
+| | | |/ /  
+| | | | * cfc5002 refactor(uicart): Replace `UICTextFieldState` enum with String resources
+| | | | *   85b4172 Merge branch 'develop' into CMM-8787_UIC
+| | | | |\  
+| | | | |/  
+| | | |/|   
+| | | * | 871fbf5 CMM-9047-[UI Cart] Enhancements to Location Details
+| | |/ /  
+| | * | d105136 CMM-9046 * Action card component
+| | * | c87e933 CMM-9046 * Action card component
+| | * | 613d439 CMM-9046 * Action card component
+| | * | a1a2321 CMM-9046 * Action card component
+| | | * e2d0a74 fix(uicart): Resolve issue with password visibility in `UICInputTextField`
+| | | * 31362c6 CMM-9047-updated with review comments
+| | | * 00c9ab5 feat(addressbook): Enhance phone number input field
+| | | * 725a65a fix(addressbook): Correct capitalization in discard dialog string
+| | | *   5f2056d Merge branch 'develop' into CMM-8787_UIC
+| | | |\  
+| | | * | 6fa6710 refactor(addressbook): Replace `SaveAddressSurface` with `UICBottomButtonsContainer`
+| | | * |   699f97e Merge branch 'develop' into CMM-8787_UIC
+| | | |\ \  
+| | |_|/ /  
+| |/| | |   
+| | | * | d01a6cf feat(addressbook): Implement address form validation and ViewModel
+| | | * | 95c2edb refactor(addressbook): Relocate ViewModels and enhance edit address flow
+| | | | | *   dde1fbb Merge branch 'CMM-8197' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-8197
+| | | | | |\  
+| | | |_|_|/  
+| | |/| | |   
+| | * | | | c8c7a25 CMM-9045 : [UI Cart] Location Card
+| | | |/ /  
+| | |/| |   
+| | | | * 337097b CMM-8197 UICInputTextField edit textfield value
+| | |_|/  
+| |/| |   
+| | | | *   ee93074 Merge branch 'develop' into CMM-9045
+| | | | |\  
+| | | |_|/  
+| | |/| |   
+| | * | | a1d8aee CMM 8790-Android: [Integrate] (6) Delete Address Functionality
+| |/ / /  
+| * / / cd71be3 CMM-9045 : [UI Cart] Location Card
+| |/ /  
+| | * 820783a CMM-9045 Updated Location cards into Fulfilment section
+| | * b12386b Increased App Version
+| | * cbabb70 CMM-9045 Location Card - Reverse Location Name truncated
+| | * f2c1d07 CMM-9045 Location Card - Location Name truncated
+| | * deb723d CMM-9045 UI Cart - Review Comment Fixes
+| | * 0edbe1e CMM-9045 UI Cart - Location Card UI Component
+| | * 9c3fcd1 CMM-9045 UI Cart - Location Card UI Component
+| | * 07fd461 CMM-9045 UI Cart - Location Card UI Component
+| |/  
+| * 991ae6c feat(theme): Add UICAppTheme import to UICScaffold for theming support
+| * bfb6b41 feat(addressbook): Display loading indicator during delivery availability check
+| * 6e57a69 refactor(build): Introduce local module flags and switch to Lottie for loading indicators
+| * b283a7c feat(addressbook): Improve padding and test tag consistency in address search components
+| * 2290a7f feat(addressbook): Implement address search UI
+| * 4b641e5 Android: [Integrate] (2) Address Search Screen
+| * bdd24a2 feat(addressbook): Adjust padding, keyboard handling, and scaffold insets for improved UI
+| * 1a48419 feat(addressbook): Refactor AddressBookSearchViewModel tests and add onSearchCleared callback
+| * b8c660b feat(uicart-components): Allow text to wrap in AdaptiveServicesItem
+| * a596b28 refactor(theme): Update theme and top app bar components for improved layout handling
+| * 34ec774 refactor(build): Introduce local module flags and switch to Lottie for loading indicators
+| * 5f053d6 feat(addressbook): Refactor address handling and improve UI components
+|/  
+* 9df035e onSearchCleared added in Demo app
+* 1d7434c feat: Version updated
+* 6f50e95 Android: [Integrate] (2) Address Search Screen
+| * 7254b02 feat(addressbook): Adjust padding, keyboard handling, and scaffold insets for improved UI
+| * b553f87 feat(addressbook): Refactor AddressBookSearchViewModel tests and add onSearchCleared callback
+| * f90c765 feat(uicart-components): Allow text to wrap in AdaptiveServicesItem
+| * 8a499c7 refactor(theme): Update theme and top app bar components for improved layout handling
+| *   f593463 Merge branch 'develop' into CMM-8822_UIC
+| |\  
+| |/  
+|/|   
+* |   672b3ba Merge remote-tracking branch 'origin/CMM-8783' into CMM-8783
+|\ \  
+| * | c78530f Corrected the MapSnapshot Screen
+| * | c57e631 Updated the color theme
+| * | 8296b4d Create Feedback component
+| * | 3b746c0 Updated ui with close button
+| * | f01994e Updated the demoscreen
+| * | 5d43030 Feedback Component
+* | | a77ac42 Corrected the MapSnapshot Screen
+* | | ad27048 Updated the color theme
+* | | b5acd4a Create Feedback component
+* | | 7cfb3e1 Updated ui with close button
+* | | 4328460 Updated the demoscreen
+* | | 2d80809 Feedback Component
+| | * 8400ca5 feat(addressbook): Display loading indicator during delivery availability check
+| | * a54285c refactor(build): Introduce local module flags and switch to Lottie for loading indicators
+| | *   a5b9db5 Merge branch 'develop' into CMM-8822_UIC
+| | |\  
+| |_|/  
+|/| |   
+* | | d2ee2a3 1. MiTienda color palette debug changes 2. Review Comments updated
+* | | da65391 Merge remote-tracking branch 'origin/CMM-8926' into CMM-8926
+|\| | 
+| * | 8ee2fd8 1. Color palette theme changes for Mitienda and CM and JVs
+* | | 25047fa 1. Color palette theme changes for Mitienda and CM and JVs
+| | * df113b1 feat(addressbook): Enhance delivery availability checks and add error modal for user feedback
+| | * 9691640 feat(addressbook): Enhance delivery availability checks and add error modal for user feedback
+| | * 446cc6b feat(addressbook): Improve padding and test tag consistency in address search components
+| | * 16b19a7 feat(addressbook): Improve padding and test tag consistency in address search components
+| | * 47614d3 feat(addressbook): Refactor address handling and improve UI components
+| | * 8b65351 feat(addressbook): Refactor address search components and improve navigation
+| | * 3371589 feat(addressbook): Implement address search UI
+| |/  
+|/|   
+* | f8c7b49 [CMM-8857] - Create Bottom Buttons Container Model
+| | *   f89a249 Merge branch 'develop' into CMM-8857
+| | |\  
+| |_|/  
+|/| |   
+* | | 4670713 feat: Version updated
+* | |   619bc2d Merge branch 'develop' into Service_item_Issue
+|\ \ \  
+| * | | 2b5f0a7 Merge remote-tracking branch 'origin/develop' into CMM-8719
+| |\| | 
+| | * | ebb2bff Refactored Primary, Secondary, and Tertiary buttons to remove the outer `Box` composable and apply border and padding directly to the button modifiers for a cleaner implementation.
+| | * | 6bbc2f7 Refactored Primary, Secondary, and Tertiary buttons to remove the outer `Box` composable and apply border and padding directly to the button modifiers for a cleaner implementation.
+| * | | f5cf7f3 Multi digit modificarion on icon button badge
+| |/ /  
+* / / 16793bd Refactored `ServicesItem` and `ServiceItemsGrid` into modular components.
+|/ /  
+| * 2c71088 1. Button variant changed from Large to Medium 2. Strings duplication removed
+| *   bcaa1ef Merge remote-tracking branch 'origin/CMM-8857' into CMM-8857
+| |\  
+| | * 73b3701 1. Code optimised 2. Build number updated
+| | * 2cc5ce4 1. updated k-doc comments 2. Corrected the background color 3.
+| | * ead33b6 1. updated k-doc comments
+| | * b8335ca 1. Transparency enabled for the component 2. Changes made to the ChangerSwitchLayout 3. Review comments updated
+| | * fa3cd82 1. Optimization and build number updates
+| | * 197194d 1. Updated the UICart demo app to display entire bottom components in one option and inside it both will be displayed
+| | * 8f87764 1. Background color theme correction made
+| | * 27426c2 1. Review comments updated
+| | * 4ccdd57 1. Merge conflict 2. Build number updated
+| | * bb10df4 1. Created Component 2. Added Strings 3. Created K-Doc comments 4. Implemented demo in UI Cart 5. Added different options
+| * | b93002e 1. Code optimised 2. Build number updated
+| * | 9e558ab 1. updated k-doc comments 2. Corrected the background color 3.
+| * | 864c8c9 1. updated k-doc comments
+| * | de20e30 1. Transparency enabled for the component 2. Changes made to the ChangerSwitchLayout 3. Review comments updated
+| * | 815e5bd 1. Optimization and build number updates
+| * | bd9647b 1. Updated the UICart demo app to display entire bottom components in one option and inside it both will be displayed
+| * | 6621227 1. Background color theme correction made
+| * | 9c537a5 1. Review comments updated
+| * | 7027b9c 1. Merge conflict 2. Build number updated
+| * | 9f7424c 1. Created Component 2. Added Strings 3. Created K-Doc comments 4. Implemented demo in UI Cart 5. Added different options
+|/ /  
+* | 60b50bb Merge remote-tracking branch 'origin/develop' into CMM-8719
+|\| 
+| * f1a50d4 Gradle migration
+| * 9c2e8fb Bump version to 1.0.0.13 and update uicartAndroid dependency to 1.0.0.8; add Maven publication configuration
+* | 2fe0040 review comment fix
+* | b1d3b3f CMM-8719- IconButton update
+* | 0181b4e CMM-8719- IconButton update
+|/  
+*   ac4f124 Merge remote-tracking branch 'origin/develop' into CMM-8821
+|\  
+| * 1a480c3 [Refactor] build.gradle.kts - Update Kotlin and Java compatibility to JDK 11, enhance compiler options
+| * 2907dde [Refactor] RadioButton - Remove emoji from comments for improved clarity and consistency
+| * 3bc2e61 [Refactor] RadioButton - Remove emoji from comments for improved clarity and consistency
+| * f8bba22 [Refactor] RadioButton - Introduce animated focus size for improved visual feedback
+| * 20267e8 [Refactor] RadioButton - Simplify border and focus visuals, enhance press and focus ring handling
+| * 6604611 [Refactor] RadioButton - Simplify border and focus visuals, enhance press and focus ring handling
+| * af05070 [Refactor] RadioButton - Simplify border and focus visuals, enhance press and focus ring handling
+| * cfb159f Android: [Refactor] (1) RadioButton - Remove isPressed and isFocused parameters, simplify usage, and enhance accessibility with content descriptions
+| *   a283138 Merge branch 'develop' into CMM-8796
+| |\  
+| * | 5dd0241 CMM-8796: Update RadioButton fill color to transparent when not pressed
+| * | 5bd6523 radio button - dark theme
+* | | cd13a06 version update
+* | |   8de6ce6 Merge remote-tracking branch 'origin/develop' into CMM-8821
+|\ \ \  
+| | |/  
+| |/|   
+| * | 9b58a31 [CMM-8911] - Android: [Integrate] (1) Sections and Services - Update text for clarity, improve layout spacing, and add overflow handling for text
+| * |   e446d71 Merge branch 'develop' into CMM-8861
+| |\ \  
+| | * | 9c3d7b5 [CMM-8911] - Android: [Integrate] (1) Sections and Services - Update text for clarity, improve layout spacing, and add overflow handling for text
+| * | | 76490fd Android: [Refactor] (1) UI Components - Remove Theme and Dark Mode switcher actions from multiple screens
+| * | | 740c52e Android: [Update] (1) Build Configuration - Increment versionCode to 55
+| * | | 4f90e1f Android: [Refactor] (1) Button Screens - Simplify WidthChangerLayout usage and add text overflow handling
+| * | | d467e45 Merge branch 'develop' into CMM-8861
+| |\| | 
+| * | | 2f119ba Android: [Integrate] (1) Button Screens - Update button text to use resource strings for variants and alignments
+| * | |   189dbae Merge branch 'develop' into CMM-8861
+| |\ \ \  
+| * | | | 3d83eb5 Android: [UI Cart] Update LinkButton to handle hover state and adjust content color
+| * | | | 009a7ff Android: [UI Cart] Enhance button components to support focused state and update color handling
+| * | | | de9e353 Android: [UI Cart] Update button components to handle hover state and adjust elevation
+| * | | | 36d6f47 Android: [UI Cart] Refactor TertiaryButtonScreen to use generic "Button" text
+| * | | | a5fd1dd Android: [UI Cart] - Update Tertiary Button to include button size parameter
+| * | | | e15c3fb CMM-8861 - Android: [UI Cart]  - Add Tertiary Button component and update navigation
+* | | | | 17cff9a version update
+* | | | | f8d433b Review comment update
+* | | | |   5e349e8 Merge remote-tracking branch 'origin/develop' into CMM-8821
+|\ \ \ \ \  
+| | |_|/ /  
+| |/| | |   
+| * | | | fccf8a8 Android: [Integrate] (1) Build Configuration - Downgrade compile SDK version to 35
+| * | | | 80ad116 Android: [Integrate] (1) Build Configuration - Update Gradle properties for Java 21 and refactor publishing configuration
+| * | | | 208304f Android: [Integrate] (1) Build Configuration - Upgrade compile SDK and Java version, update play-services-maps dependency
+| | |/ /  
+| |/| |   
+* | | | 5333084 cmm-8821 - version increment
+* | | | 17131e9 cmm-8821 - version increment
+* | | | 341fcab cmm-8821 - version increment
+* | | | b678bc9 cmm-8821 - version increment
+* | | | a96b8bf Merge remote-tracking branch 'origin/develop' into CMM-8821
+|\| | | 
+| * | | c0ad1f1 Android: [Integrate] (1) Address List - Refactor loading state logic and add unit tests for empty state determination
+| * | | 64c484e Android: [Integrate] (1) Empty State Screen - Remove unused title heading level and body variant
+| * | | 6e98764 Android: [Integrate] (1) Build Configuration - Update Kotlin compile options to include opt-in requirements
+| * | | 4ea9fba Android: [Integrate] (1) Navigation - Update animation imports and add transition functions
+| * | | 32e0111 CMM-8786 - Android: [Integrate] (1) Address List - Loading and Empty state - Add a new Address button also added
+| * | | 2d0d78e Merge branch 'develop' into CMM-8786
+| |\| | 
+| * | | abc3598 CMM-8786 - Android: [Integrate] (1) Address List - Loading and Empty state - Add a new Address button also added
+| * | | 3200147 CMM-8786 - Android: [Integrate] (1) Address List - Loading and Empty state - Empty State UI changes
+| * | | c381e5a CMM-8786 - Android: [Integrate] (1) Address List - Loading and Empty state - Commited with local maven setup
+| | |/  
+| |/|   
+| * | e104311 Radio button single select
+| * | e670774 CMM-8796 build no update
+| * | ea2aeef CMM-8796 radio button component update
+| * | 7981ca3 CMM-8796 Radiobutton component onclick
+| * |   a331be0 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-8796
+| |\ \  
+| * | | 52ea120 CMM-8796 content description in Radio button
+| * | | c25a82a Radio button component
+| * | | c04d0e7 CMM-8796 RadioButton UI content
+* | | | 6872c74 cmm-8821 - UICBottomModalSheet  header fix
+* | | | f5d2aa5 cmm-8821 - UICBottomModalSheet  header fix
+* | | | 2cba8e0 cmm-8821 - UICBottomModalSheet  header fix
+* | | | 2f29d4c cmm-8821 - UICBottomModalSheet  header fix
+* | | | 8c2be12 cmm-8821 - UICBottomModalSheet.kt initial commit
+| |_|/  
+|/| |   
+* | |   47da9ff Merge remote-tracking branch 'origin/CMM-8784' into CMM-8784
+|\ \ \  
+| * | | e251a38 1. review comments updated.
+| * | | 0e5fcf9 1. Optimized Imports 2. Build number updated
+| * | | fa405d5 1. Optimized Imports 2. UX Review comments updated 3. New image assets updated. 4. Added new size param for the empty state component for handling the size.
+| * | | d1b1e53 1. Optimized Imports
+| * | | d429e79 1. Height const values added in UIC Heights
+| * | | 0803681 1. optimized imports
+| * | | 3e52cfc 1. Empty state component created 2. Demo states added 3. Images added for showing demo 4. Required strings added.
+| |/ /  
+* | | ba8e525 1. review comments updated.
+* | | b8b9c28 1. Optimized Imports 2. Build number updated
+* | | 47eefe2 1. Optimized Imports 2. UX Review comments updated 3. New image assets updated. 4. Added new size param for the empty state component for handling the size.
+* | | 489c390 1. Optimized Imports
+* | | 643dfba 1. Height const values added in UIC Heights
+* | | 577a578 1. optimized imports
+* | | 1b01c65 1. Empty state component created 2. Demo states added 3. Images added for showing demo 4. Required strings added.
+| |/  
+|/|   
+| | * b55641e CMM-8785 - Android: [UI Cart] Create Link Button component - Build Updates
+| |/  
+|/|   
+* | ad70862 CMM-8785 - Android: [UI Cart] Create Link Button component - UI Updates
+* |   7e0600b Merge branch 'UIUpdates' into CMM-8785
+|\ \  
+| * | 01d5914 Rearranged
+| * | 5869d9d Rearranged
+| * | 4dfc415 Rearranged
+| * | 48f30cc Rearranged
+| * | 7696ab6 Dark Mode and Theme Easy settings
+* | |   ac417d4 Resolved Conflict after taking pull from develop
+|\ \ \  
+| * | | d803bab CMM-8658 - Android: [UI Cart] Create Map snapshot component - Dark Mode added
+| * | | 215aea4 Updated MR
+| * | | 1d54003 Resolved Conflict
+| |\| | 
+| | * | 1977cab Resolved UX review comments
+| | * | f1a50aa Resolved UX review comments
+| | * | 3f1fcb3 Resolved UX review comments
+| | * | 8700ccf Resolving merge conflicts
+| | * | f55eb22 Merge remote-tracking branch 'origin/develop' into CMM-8622
+| | |\| 
+| | * | f49edf4 CMM-8622-Android: [UI Cart] Form Textfield Component
+| | * | 9c2c9db CMM-8622-Android: [UI Cart] Form Textfield Component
+| | * | 431b754 CMM-8622-Android: [UI Cart] Form Textfield Component
+| | * | 71c2049 CMM-8622-Android: [UI Cart] Form Textfield Component
+| | * | 44bef25 CMM-8622-Android: [UI Cart] Form Textfield Component
+| | * | 51eedd2 CMM-8622-Android: [UI Cart] Form Textfield Component
+| | * | 3b21d5d CMM-8622-Android: [UI Cart] Form Textfield Component
+| | * | dad69ed CMM-8622-Android: [UI Cart] Form Textfield Component
+| * | | 638ddbe Removed warnings
+| * | | 5aaf4b8 Map snapshot component
+| * | | 8533d5c Map snapshot component
+* | | | c194a64 Link Button Component
+| |_|/  
+|/| |   
+* | | 1ddaae4 CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | 4f41c42 CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | c70321c CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | 67335cf CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | c431c4d CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | cfab5d9 CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | 7f300c6 CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | e66f2d3 CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | 3a01a2f CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | d8dea96 CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | e40760a CMM-8624 - Android: [UI Cart] Create Search Bar Component -  ImeOptions for Search added - UX review build
+* | | 59dd544 CMM-8624 - Android: [UI Cart] Create Search Bar Component -  UX review build
+* | | c264d9e CMM-8624 - Android: [UI Cart] Create Search Bar Component -  UX review build
+* | | f1b8c76 CMM-8624 - Android: [UI Cart] Create Search Bar Component -  UX review build
+* | | a35dde6 CMM-8624 - Android: [UI Cart] Create Search Bar Component - Icon Button transparency set
+* | | 5b87207 CMM-8624 - Android: [UI Cart] Create Search Bar Component - Icon Button yet to be configured
+* | | fd54f6f CMM-8624 - Android: [UI Cart] Create Search Bar Component - Icon Button yet to be configured
+* | | e2fb5c2 CMM-8624 - Android: [UI Cart] Create Search Bar Component - Icon Button yet to be configured
+* | | 20ab2d8 CMM-8624 - Android: [UI Cart] Create Search Bar Component - SearchBar added
+* | | c498856 CMM-8624 - Android: [UI Cart] Create Search Bar Component - SearchBar added
+* | | 55c8507 CMM-8624 - Android: [UI Cart] Create Search Bar Component - SearchBar added
+| |/  
+|/|   
+* | ff09e48 CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  Build Updated
+* | 061bc44 CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  Build Updated
+* | b854c46 CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  UX Review comments
+* | b674898 CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  UX Review comments
+* | 7fd5b88 CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  UX Review comments
+* | e09928e CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  UX Review comments
+* | acaa1b7 CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  UX Review comments
+* | f3cfd90 CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  Review comments
+* | a0965ec CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified -  UX Review
+* | 6b8cb59 CMM-8621 - Android: [UI Cart] Address List Item Component - Accessibility verified
+* | 98e55ee CMM-8621 - Android: [UI Cart] Address List Item Component
+* | 60a9c45 CMM-8621 - Android: [UI Cart] Address List Item Component
+* | b5cacd8 CMM-8621 - Android: [UI Cart] Address List Item Component
+|/  
+* ffe305a CM/JV Regression - Issue fixes found in UICart Appbar back click and theme changes
+* bb8100c CMM-8504 - Android: Countdown clock - Integration
+| * c947ced CMM-8503 - Fixed Primary Button Padding issue
+| * 00e51fb CMM-8503 - Countdown Timer - UX review comments 4 - Scaling issue with timer - Build Updates
+| * a60be65 CMM-8503 - Countdown Timer - UX review comments 4 - Scaling issue with timer
+| * 88bb64e CMM-8503 - Countdown Timer - UX review comments
+| *   2e0bf3d Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-8503
+| |\  
+| |/  
+|/|   
+* | cc56a80 CMM 8503 Android: Countdown clock - UI only
+| * 1029689 CMM-8503 - Android: Countdown clock - UI only - Text Color changes added - UX Review 3 and Version updated
+| * 881518d CMM-8504 - Android: Countdown clock - UI - Review Comments added
+| * 5887975 CMM-8504 - Android: Countdown clock - UI - Review Comments added
+| * 2466d60 CMM-8504 - Android: Countdown clock - UI - Review Comments added
+| * 86dba50 CMM-8504
+| * d4d50d9 CMM-8504
+| * 386ce3e CMM-8503 - Android: Countdown clock - UI only - Text Color changes added - Version updated
+| * 49b16d5 CMM-8504 - Android: Countdown clock - UI - Strings added
+| * 08ba034 CMM-8503 - Android: Countdown clock - UI only - Text Color changes added - Version updated
+| * 8e729c5 CMM-8503 - Android: Countdown clock - UI only - Text Color changes added - Review comments Font Scaling down added
+| * 3b7692c CMM-8503 - Android: Countdown clock - UI only - Text Color changes added - Review comments added
+| * 6aa8daa CMM-8504 - Android: Countdown clock - Integration
+| *   0459bc3 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-8503
+| |\  
+| |/  
+|/|   
+* | 2e996cf 1. Review comments for making empty cart screen to use it for showing all the empty states that can come in future.
+* | 3d86290 1. Empty Cart Component Demo added in the UICart 2. Empty Cart component created 3. Added Coil to the uicart
+* | 1a1a27d updated gradle properties
+| *   8bd0a57 Merge branch 'CMM-8503' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-8503
+| |\  
+| | * 6bc18a8 CMM-8503 - Android: Countdown clock - UI only - Text Color changes added - UX review build
+| * | 86707a8 CMM-8504
+| |/  
+| * 1990f13 CMM-8503 - Android: Countdown clock - UI only - Text Color changes added - UX review build
+| * a940626 CMM-8503 - Android: Countdown clock - UI only - Text Color changes added
+| * 92803e5 CMM-8503 - Android: Countdown clock - UI only - Sample Timer logic added
+| * 39492f2 CMM-8503 - Android: Countdown clock - UI only - Comments added
+| * 72901bc CMM-8503 - Android: Countdown clock - UI only - Added the UICart Component
+| * be0305d CMM-8503 - Android: Countdown clock - UI only - Added the UICart Component
+|/  
+* 4545ef7 [CMM-8403] - Android : Datadog RUM Configuration with Mobile Vitals
+* 1c80e61 1. WebView Component Demo added in the UICart
+* a8b024f 1. WebView Component Demo added in the UICart
+* f10ca14 1. WebView Component corrections
+* b7b69a6 1. WebView Component corrections
+* 39d2146 1. Created WebView Component 2. Added WebView Screen for demo purposes
+* a9c8c7d 1. URL Logic moved to calling area
+* b048f6d 1. CMM-8401 : Bug ticket related to the Webview query param adding the profile refactor branch. 2. Created WebView Component 3. Added common params.
+* a80db46 CMM-8172 - Android: [UI Cart] Implement a Reusable Shimmer Loading Component - UX Review comments added
+* f5aaadb [CMM-8253] - In Joevs Services section, Catering and Cooking school are...
+* c026e21 CMM-8172 - Android: [UI Cart] Implement a Reusable Shimmer Loading Component - Dark Option
+* 82990e0 CMM-8172 - Android: [UI Cart] Implement a Reusable Shimmer Loading Component - Dark Option
+* d1e78a9 CMM-8172 - Android: [UI Cart] Implement a Reusable Shimmer Loading Component
+* 6cb6218 CMM-8172 - Android: [UI Cart] Implement a Reusable Shimmer Loading Component
+*   366acb6 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-8172
+|\  
+| * 500d582 updated gradle properties
+* | 5fe094b CMM-8172 - Android: [UI Cart] Implement a Reusable Shimmer Loading Component
+|/  
+* 8260a60 Accessibilty - Profile Module
+* fb98f9f [CMM-8101] - Android: [UI Cart] Services Section Item Component - UX Review
+* 08029b5 [CMM-8121] - Android : [Link] the Profile Module - Border Updates
+* facbc90 [CMM-8121] - Android : [Link] the Profile Module - (Order Ahead) - Unit Test
+* 8b8ff91 [CMM-8101] - Android: [UI Cart] Services Section Item Component - Pressed and Hover state added
+*   57c1427 Merge branch 'develop' into CMM-8101
+|\  
+| * 5d1862b CMM 8104 - Add Semgrep Precommit Hooks
+* | 8367773 [CMM-8101] - Android: [UI Cart] Services Section Item Component - Guest User State completed
+* | 3d66674 [CMM-8101] - Android: [UI Cart] Services Section Item Component
+* | 0982143 [CMM-8101] - Android: [UI Cart] Services Section Item Component - Pressed and Hover state added
+* | d4f58c4 [CMM-8101] - Android: [UI Cart] Services Section Item Component - Service Item added
+|/  
+* 1498a65 [CMM-7724] - Android  [Link] to Profile Module - Communication Preferences (Push Notifications)
+* 6c0e3c8 commented out context usage for now
+* ff22a21 [CMM-7745] - Android [Link] to Profile Module - Push Notification - UI Elements Completed - User Service integrated
+* e23daed [CMM-7745] - Android [Link] to Profile Module - Communication Preferences (Email Preferences) - Feature Completed
+* c126b68 [CMM-7745] - Android [Link] to Profile Module - Communication Preferences (Email Preferences) - Feature Completed
+* b3a3faa [CMM-7745] - Android [Link] to Profile Module - Communication Preferences (Email Preferences) - UI Changes completed - Close button pending
+* a13c203 [CMM-7745] - Android [Link] to Profile Module - Communication Preferences (Email Preferences) - UI Changes completed - BottomModal.kt Close icon incomplete
+* 0fad4e8 [CMM-7745] - Android [Link] to Profile Module - Communication Preferences (Email Preferences) - UI Changes completed - User profile Service completed - Hardcoded
+* f1dec67 [CMM-7745] - Android [Link] to Profile Module - Communication Preferences (Email Preferences) - UI Changes completed - Nav to address book pending Services pending
+* c3284f0 [CMM-7745] - Android [Link] to Profile Module - Communication Preferences (Email Preferences) - Gradle Integration changes - UI Screens Added
+* b1ac959 [CMM-7745] - Android [Link] to Profile Module - Communication Preferences (Email Preferences) - Gradle Integration changes - UI Cart
+* 034ebc3 Gradle Downgraded (Reason : Windows known compatability issues. Reference - https://discuss.gradle.org/t/gradle-sync-error-transforms-on-android-studio/50852/5)
+* 8816bae Cmm 8013
+* 42c234f Cmm 8013
+* 4b4fbc5 [CMM-7883] Android: [UI Cart] Implement Reusable Icon Button Component in...
+*   4f6f24f Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7882
+|\  
+| * 712a59c CMM-7799 Handle Font Scaling (Android's version of Dynamic Type) * Added extension function for fontsize to apply dynamic scaling
+* | 75e5543 1. Code review comments - resolution
+* | bd5fdf3 1. Code review comments - resolution
+* | b75dcfc 1. UI Cart Demo updates
+* | ccadb89 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7882
+|\| 
+| * 67d5138 Cmm 7884 - Android: Dark theming
+* | c6e0586 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7882
+|\| 
+| * 8378f3d 1. Version updated
+| * f8e0b75 1. Changed the trailing icon and leading icon position near to the text with the mentioned padding while in full width
+| * 97d619b 1. Review comments updated and logic change implemented.
+| * d6f6ed1 1. Color changes implemented
+| * 0d8883b 1. Secondary button Component Positioning the leading and trailing icons done 2. Enabled outlined Button instead of normal button 3.Color based on the figma applied 4. Implemented an UI Screen to demo the Secondary button appearance in different conditions, 5. Implemented additional switch to enable the view in full width. 6. Based on the switch status the login for changing the width is implemented. 7. String constants added.
+| *   aa677ee Merge branch 'CMM-7884' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7741
+| |\  
+| * | 1872cc8 1. Secondary button task started
+* | | 14336b3 1. UI Cart Demo updates
+* | | f4ce0f8 1. Optimization
+* | | 8903431 1. CMM-7882 Corner radius and spacing components added for core modifiers 2. Demo screen has been added to the UI Cart application 3. Required string constants has been added. 4. Navigation for the UI Cart application added.
+* | | 3bfcad7 1. Merge conflicts rectified
+* | | 884126f 1. Merge conflicts rectified
+* | |   88763f1 Merge branch 'CMM-7884' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7882
+|\ \ \  
+| * | | cede952 [CMM-7884] Android: [UI Cart] Dark Theming - Gradle updates
+| * | | 2429a47 [CMM-7884] Android: [UI Cart] Dark Theming - Gradle updates
+| * | | e731c50 [CMM-7884] Android: [UI Cart] Dark Theming - Gradle updates
+| * | | 1f0d39d [CMM-7884] Android: [UI Cart] Dark Theming - Lib updates
+| * | | d069188 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7884
+| |\| | 
+| * | | 257ad4a [CMM-7884] Android: [UI Cart] Dark Theming - Clean up
+| * | | 67bb94b [CMM-7884] Android: [UI Cart] Dark Theming - PreferenceRow item
+| * | | 2287120 [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| * | | bdfdf60 [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| * | | cf8f675 [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| * | | 9ee721c [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| * | | 87320aa [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| * | | c36b5fd [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| | |/  
+| |/|   
+| * | 94d5d0b [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| * | d088406 [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| * | 6f94d64 [CMM-7884] Android: [UI Cart] Dark Theming - Screen restructured
+| * | a4f5dcf [CMM-7884] Android: [UI Cart] Dark Theming - Icons Added
+| * | 99ebba9 [CMM-7884] Android: [UI Cart] Dark Theming
+* | | 3aff880 1. Corner Radius modifier created
+* | | 7c4939d 1. Corner Radius modifier created
+* | | e586031 1. Corner Radius modifier created
+| |/  
+|/|   
+* | c4c16d4 Added reading from environment variable for uicartcomponents gradle file
+* | 79c762a Added reading from environment variable
+|/  
+* 59cbf6d Cmm 7471
+* cde124d [CMM-7739] KTLint Fix for - [UI Cart] Item Disclosure Row Component
+* c728560 [CMM-7739] [UI Cart] Item Disclosure Row Component
+* 05ebde6 [CMM-7757] Android: [UI Cart] PrimaryButton.kt UX Review comments
+* 2df6edb [CMM-7757] Android: [UI Cart] PrimaryButton Component - CorePrimaryButton build updated
+* fd5b372 [CMM-7757] Android: [UI Cart] PrimaryButton Component - CorePrimaryButton UI tests Updates
+* 720b352 [CMM-7757] Android: [UI Cart] PrimaryButton Component - CorePrimaryButton UI tests Updates
+* 1e81523 [CMM-7757] Android: [UI Cart] PrimaryButton Component - SimpleTopAppBarTest tests Updates
+* 4bbcc1c [CMM-7757] Android: [UI Cart] PrimaryButton Component - SimpleTopAppBarTest tests Updates
+* d8ea235 [CMM-7757] Android: [UI Cart] PrimaryButton Component - UI test Updates
+* 95c3fac [CMM-7757] Android: [UI Cart] PrimaryButton Component - Pressed state added
+* 0b62f4b [CMM-7757] Android: [UI Cart] PrimaryButton Component - UI test not working
+* 40a5f53 [CMM-7757] Android: [UI Cart] PrimaryButton Component - Pressed state added
+* 1af4b9d [CMM-7757] Android: [UI Cart] PrimaryButton Component - Pressed state added
+* 0dbc590 [CMM-7757] Android: [UI Cart] PrimaryButton Component - Enabled and disabled states added
+* 4142e6f [CMM-7757] Android: [UI Cart] PrimaryButton Component - Enabled and disabled states added
+* c26426d [CMM-7757] Android: [UI Cart] PrimaryButton Component
+* d769b7a [CMM-7727] Android: [UI Cart] Toggle Button - Main App Updates
+* fc06cc8 [CMM-7727] Android: [UI Cart] Top App Bar - Main App Updates
+* 6effa44 preview unchecked
+* 68d7260 Component preview
+* 528a498 CMM-7727 cleanup
+* 1aa1c1e version update
+*   3639854 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7727
+|\  
+| * 1769d68 1. Used proper imports for spI Divider overflow issue fixed 2. Padding and positioning of divider made dynamic
+| * 6e993b5 1. Used proper imports for spacing and heights 2. Icon import error in Maincompose cleared.
+| *   c70cd9d Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7467
+| |\  
+| | * f849e87 [CMM-7743] Android: [UI Cart] Top App Bar - Accessibility
+| * | 06a5d95 1. Imports optimized
+| * | 1e23ef7 1. Based on UX review comments, changes implemented with new updates from develop branch.
+| * | fc73ed4 1. Removed warning after pull from develop branches
+| |/  
+* | c4530f5 CMM-7727
+* | cd622a8 Toggle button figma update
+* | b9cd68f CMM-7727 Toggle button component
+|/  
+* 376b8ba [CMM-7743] Android: [UI Cart] Top App Bar - Usage comments added
+* 099ad07 [CMM-7743] Android: [UI Cart] Top App Bar - Build Updates
+* 28dadf9 [CMM-7743] Android: [UI Cart] Top App Bar - Main App Updates
+*   8556f1d Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7742
+|\  
+| * 2b16fa4 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - UX Review comments by cliff
+| * a5b7f8c [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - UX Review comments by cliff
+| * 05247e2 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Build Updated
+| * efae837 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Build Updated
+| * 3f77134 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Merged
+| *   cd60df8 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7743
+| |\  
+| * | 03250a1 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Develop changes
+* | | f1a8160 [CMM-7742] Android: [UI Cart] Circular Loading Indicator - JV Theme handled
+* | | 25c13ee loading indicator coreHeight
+* | | cf77dc0 lottie file name
+* | | 2fec601 Circular loading indicator height
+* | | d874665 dark theme lottie animation
+* | | db705b6 CMM-7742 Circular loading indicator
+* | |   39def43 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7742
+|\ \ \  
+| | |/  
+| |/|   
+| * | c9ff83d 1. Commit warning cleared
+| * | 524c347 1. Made corrections to the section component
+| |/  
+* | f94de00 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7742
+|\| 
+| *   3d4a3b6 Merge branch 'develop' of gitlab.com:heb-engineering/teams/central-market-engineering/mobile-team/uicart-android into CMM-7467
+| |\  
+| | * 98c2e24 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Review Comments
+| | * d5e5794 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - TopAppBar height made to Default
+| | * 3566788 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Main App Updated
+| | * 199ac46 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Height Theme added
+| | * b35f515 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Height Theme added
+| | * a5fe1b9 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - Accessibility Updates
+| | * a0841d2 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - MainScreen update
+| | * a4988ac [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - MainScreen update
+| | * 3732fe6 [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component - MainScreen update
+| | * 97aa09a [CMM-7743] Android: [UI Cart] Simple Navigation Bar Component
+| * | 1491d35 1. Optimized imports
+| * | af54af5 1. Added Chevron in the themesystem module 2. Added sections in the demo application 3. Added String constants to Strings 4. Added multiple previews in the Section Compose class.
+| * | 0d80c5a 1. Added multiple previews for better understanding of the usage of different params
+| * | 929c270 1. Added flag for making the divider to start from parent or to start from title x position.
+| * | 873434b 1. Added flag for making the divider to start from parent or to start from title x position.
+| * | f27cf82 1. optimized imports
+| * | 6ca17e0 1. Review comments rectification implemented. 2. Unit test started. 3. Spacing defaults added. 4. Added component usage comments in the Section.kt
+| * | 8869c4e 1. Text Styling added
+| * | e431611 1. Section reusable composable created
+| * | 4abd3f5 1. Section reusable composable created
+| |/  
+* | eac5868 CMM-7742 compose lottie animation
+* | b8b23a2 talkback loading
+* | 7cd03bf lottie animation version
+* | 2c6a585 CMM-7742 Circular loading indicator lottie animation
+|/  
+* e2bb7bf Moved the hardcodes strings to stringfile
+* 34dfbb6 UICart - Pull from develop for Ktlint
+* 7519380c UICart - Pull from develop for Ktlint
+* 4e8c1e3 UICart - Pull from develop for Ktlint
+*   9f0aa40 UICart - Pull from develop for Ktlint
+|\  
+| * 7fc90b7 Added ktlint to the code. Added a pre-commit hook as well. So Everyone need to...
+* | 950aa80 Added DrowpDown Menu in UI Cart
+* | 9e6b11d 	Create TextView component in UI Cart
+|/  
+* c7a2380 UICart - Android - MR template added
+* 848cd39 Edit README.md
+* 2bff02d Edit README.md
+* 7263d6c Add README.md
+* bb6ed74 UICart - Android - UI Clean Up
+* 93e53ae UICart - Android - UI Clean Up
+* ba49912 UICart - Android - UI Clean Up
+* 7ac691d UICart - Android - UI Clean Up
+* 2edf183 UICart - Android - Build Flavours added & Spacing theme parameter added
+* b2cff68 UICart - Android - Refactoring
+* c70fa36 UICart - Android - Copyright Added
+* 76fd54b UICart - Android - ColorTokens Refactored
+* c832c91 UICart - Android - Typography Refactored as per naming standards
+* d6b428f UICart - Android - Typography Refactored as per naming standard
+* 0d055e2 UICart - Android - Color Data Class rework according to Keywords
+* 3c51545 UICart - Android - Extended Theme added
+* 5fa253d UICart - Android - Background Theme added
+* c888034 UICart - Android - Extended Colors Added
+* 11331e3 UICart - Android - Fonts Screen added
+* 2f5ff78 UICart - Android - Shapes added
+* bd20652 UICart - Android - Color Tokens UI Improved
+* 125d45f UICart - Android - Color Tokens added
+* 2e6fc6b UICart - Android - Files Updated
+* c923c1d UICart - Android - Theme System Fully Configured
+* 2655c6d UICart - Android - Theme System Fully Configured
+* c68b963 UICart - Android - Theme System Configuration
+* bae46a9 UICart - Android - Theme System Configuration
+* a0e6176 UICart - Android - Theme System Configuration
+* b009a76 UICart - Android - Basic Typography Added - //Header XS Needed - DisplaySmall Reused
+* 21444b4 UICart - Android - Basic Typography Added
+* e6249e7 UICart - Android - CM JV Basic Theme changes
+* a73c091 UICart - Android - CM JV Basis Themes added
+* 2b990e2 UICart - Android - Base App refactoring
+* 70bb1b4 UICart - Android - App cleared of duplicate Theme
+* 42aa375 UICart - Android - Gradle dependency added to fix the Preview issue using sub module
+* 4cbeaf2 UICart - Android - Preview Issue cleared when dependency with Theme is removed
+* e33247a UICart - Android - Dependencies Cleaned
+* 1114f39 UICart - Android - Core Theme Sub Module added with base files
+* 74b90c6 UICart - Android - Gradle Changes - Core Component updates - Baseline set for Theme
+* 5f66523 UICart - Android - Gradle Changes - Core Component updates - Setting Updates
+* 2119e28 UICart - Android - Gradle Changes - Core Component updates - Nav Drawer Added in the Main App
+* 91b475c UICart - Android - Gradle Changes - Core Component updates - UICartTheme used for files in the :app module
+* dc53b8c UICart - Android - Gradle Changes - Core Component updates - Pushed to maven
+* 7d21ab9 UICart - Android - Gradle Changes - Core Component updates - Token updated with issue
+*   f575a99 Merge remote-tracking branch 'origin/master'
+|\  
+| * a783498 Delete gradle.properties
+* | 189fc57 Remove gradle from git tracking
+|/  
+* 2fbd248 UICart - Android - Gradle Changes - Core Component updates - Token updated with issue
+* a4497ff UICart - Android - Gradle Changes - Core Component updates - Build Issue in Windows
+* 98ed04d UICart - Android - Gradle Changes - Core Component updates - Tooling dependency added for Preview
+* b4b871c UICart - Android - Gradle Changes - Core Component added
+* b0725e5 UICart - Android - Gradle Changes - Basic UI Updates
+* 989283b UICart - Android - Gradle Changes - Build Code Cleanup 1
+* bc18178 UICart - Android - Gradle Changes - Pushed build successfully
+* a8353ab UICart - Android - Gradle Changes
+* 8d6930a Remove file
+* 8e7f6af UICart - Android - Component Gradle Changes
+* 44efe21 Update .gitignore to include new rules
+* 5a48903 UICart - Android - Gradle Changes
+* 63b9ae1 UICart - Android - Token Changes
+* c515aa9 UICart - Android - Jitpack IO
+* 1d4b9ac UICart - Android - Update testing
+* f8e76ea UICart - Android - Initial Commit

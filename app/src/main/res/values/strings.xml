@@ -1,0 +1,215 @@
+<!--
+  ~
+  ~  Created by Mahesh Paul on 1/15/26, 11:30 AM
+  ~  Copyright (c) 2026 . All rights reserved.
+  ~  Last modified 1/15/26, 9:44 AM
+  ~
+  -->
+
+<resources>
+    <string name="app_name">UICart</string>
+    <string name="primary_button">⚠️ Primary Button</string>
+
+    <string name="home_title">UICart Components</string>
+    <string name="color_title">Color Tokens</string>
+    <string name="settings_title">Settings</string>
+    <string name="font_title">Typography</string>
+    <string name="style_modifiers">Style Modifiers</string>
+    <string name="style_modifiers_margin">Margin Modifiers</string>
+    <string name="style_modifiers_padding">Padding Modifiers</string>
+    <string name="style_modifiers_border">Border Radius</string>
+
+    <string name="drawer_home">Cart</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_about">Colors</string>
+    <string name="drawer_menu_description">Menu navigation button</string>
+    <string name="drawer_home_description">Home navigation button</string>
+    <string name="drawer_settings_description">Settings navigation button</string>
+    <string name="drawer_info_description">About navigation button</string>
+    <string name="buttons_chips_tabs">Button, Chips &amp; Tabs</string>
+    <string name="buttons_primary">Primary Button</string>
+    <string name="buttons_secondary">Secondary Button</string>
+    <string name="buttons_tertiary">Tertiary Button</string>
+    <string name="pressed">Pressed</string>
+    <string name="focused">Focused</string>
+    <string name="hover">Hover</string>
+    <string name="disabled">Disabled</string>
+    <string name="disabled_buttons">Disabled buttons</string>
+    <string name="buttons_with_leading_icons">Buttons with leading icons</string>
+    <string name="enabled">Enabled</string>
+    <string name="large_variant">Large Variant</string>
+    <string name="medium_variant">Medium Variant</string>
+    <string name="small_variant">Small Variant</string>
+    <string name="single_select">Single Select Enabled</string>
+    <string name="disabled_buttons_with_leading_icons">Disabled buttons with leading icons</string>
+    <string name="circular_loading_indicator">Circular Loading Indicator</string>
+    <string name="icon_buttons">Icon Button</string>
+    <string name="radio_buttons">Radio Button</string>
+    <string name="service_item">Service Item</string>
+    <string name="shimmer_item">Shimmer Item</string>
+    <string name="circular_loading_indicator_title">Circular loading indicator</string>
+    <string name="circular_loading_indicator_title_completed">Circular loading indicator completed</string>
+    <string name="circular_loading_indicator_description">Loading</string>
+    <string name="toggle_button">Toggle Button</string>
+    <string name="toggle_button_on">Toggle Button ON</string>
+    <string name="toggle_button_off">Toggle Button OFF</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="link_button">Link Button</string>
+    <string name="input_text_field">Text Fields</string>
+    <string name="actions">Action</string>
+    <string name="contentful_banners">Contentful Banners</string>
+    <string name="input">Input</string>
+    <string name="pages">Pages</string>
+    <string name="action_card_title">Action Card</string>
+
+    <string name="texts">TextView</string>
+    <string name="topAppBar">Header</string>
+    <string name="normal_text">This is a normal text view</string>
+    <string name="bold_text">This is a bold text view</string>
+    <string name="underlined_text">This is an underlined text view</string>
+    <string name="hyperlink_text">This is a hyperlink styled text view</string>
+    <string name="text_colors">Text Colors</string>
+    <string name="primary_colors">Primary Colors</string>
+    <string name="primary_button_colors">Primary Button Colors</string>
+    <string name="primary_button_tonal_colors">Primary Button Tonal Colors</string>
+    <string name="interactive_colors">Interactive Button Colors</string>
+    <string name="secondary_tertiary_button_colors">Secondary/Tertiary Button Colors</string>
+    <string name="incrementer_colors">Incrementer Colors</string>
+    <string name="coupon_colors">Coupon Colors</string>
+    <string name="extended_jv_colors">Extended JV Colors</string>
+    <string name="extended_cm_colors">Extended CM Colors</string>
+    <string name="overlay_colors">Overlay Colors</string>
+    <string name="neutral_colors">Neutral Colors</string>
+    <string name="info_colors">Info Colors</string>
+    <string name="warning_colors">Warning Colors</string>
+    <string name="negative_colors">Negative Colors</string>
+    <string name="positive_colors">Positive Colors</string>
+    <string name="secondary_colors">Secondary Colors</string>
+    <string name="heading_text">Heading Text</string>
+    <string name="body_text">Body Text</string>
+    <string name="title_text">Title Text</string>
+    <string name="subtitle_bold">Subtitle Bold</string>
+    <string name="footnote">Core Footnote</string>
+    <string name="strikethrough">Caption StrikeThrough</string>
+    <string name="subtitle_regular">Subtitle Regular</string>
+
+    <string name="interactive_neutral_colors">Interactive Neutral</string>
+    <string name="structural_colors">Structural Colors</string>
+
+    <string name="header">Header</string>
+
+    <string name="sections">Account</string>
+    <string name="section_lvl1">Section L1</string>
+    <string name="section_lvl2">Section L2</string>
+    <string name="section_lvlfaq">Section FAQ</string>
+    <string name="preference_row_item">Preference Row Items</string>
+    <string name="section_accounts">Account Section</string>
+    <string name="section_terms_of_use">Terms of Use</string>
+    <string name="section_description">Description</string>
+
+    <string name="primary_topappbar">Primary</string>
+    <string name="secondary_topappbar">Secondary</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="notifications_title">Receive Festival Emails</string>
+    <string name="notifications_desc">Need some delicious inspiration? Don\'t miss anything that happens during our signature events like Hatch Fest, Wine Week, Passport, and more.</string>
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="preview_full_width">FILL WIDTH</string>
+    <string name="webview_title">WebView</string>
+
+    <string name="countdown_timer">Countdown Timer(PPG)</string>
+    <string name="countdown_timer_banner">Countdown Timer Banner</string>
+    <string name="hex_code">HEX Code</string>
+    <string name="use_background_image">Use Background Image</string>
+    <string name="background_color">Background Color</string>
+    <string name="text_color">Text Color</string>
+    <string name="empty_cart">Empty Cart</string>
+    <string name="empty_states">Empty States</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="fulfilment">Fulfilment</string>
+    <string name="fulfilment_app_bar_toggle">Fulfilment App Bar Toggle</string>
+    <string name="ways_to_shop">WAYS TO SHOP</string>
+    <string name="app_bar_toggle">Fulfilment App Bar Toggle</string>
+    <string name="address_book">Location details</string>
+    <string name="fulfillment">FulFillment</string>
+    <string name="address_list_item">Address List Item</string>
+    <string name="location_card">Location Card</string>
+    <string name="change_store">Change store</string>
+    <string name="change_address">Change address</string>
+    <string name="control_panel">🎛 Control Panel</string>
+    <string name="state_for_dynamic_helper_text_and_icons">State: for dynamic helper text and icons</string>
+    <string name="normal">Normal</string>
+    <string name="_text">Normal</string>
+    <string name="error">Error</string>
+    <string name="warning">Warning</string>
+    <string name="helper">Helper</string>
+    <string name="no_helper">No Helper</string>
+    <string name="multiline">"Multiline: "</string>
+    <string name="char_limit">"Char limit : "</string>
+    <string name="character_limit">Character Limit: %1$d</string>
+    <string name="label">Label</string>
+    <string name="this_is_a_warning">⚠️ This is a warning</string>
+    <string name="error_message">Error message</string>
+    <string name="search_bar">Search Bar</string>
+    <string name="text_area">Text Area\n</string>
+
+    <string name="empty_cart_empty_bag">Empty Bag</string>
+    <string name="empty_cart_empty_grocery_bag">Empty Grocery Bag</string>
+    <string name="empty_cart_cooking">Still Cooking</string>
+    <string name="empty_cart_no_address">No Address</string>
+    <string name="empty_cart_list">Empty List</string>
+    <string name="empty_cart_order_ahead">Empty Cart Order Ahead</string>
+    <string name="mapSnapshot">MapSnapshot</string>
+    <string name="bottom_components">Bottom Components</string>
+    <string name="bottom_model_sheet">Bottom Model Sheet</string>
+
+    <string name="feedback">Feedback</string>
+    <string name="feedback_message1">Feedback Messages</string>
+    <string name="feedback_message2">"Feedback Messages with close button &amp; multiline &amp; description"</string>
+    <string name="success_message">Success Message</string>
+    <string name="feedback_success_message">Success Message. Your changes have been saved successfully. Everything looks great!!!</string>
+    <string name="feedback_success_description">Success Message. Your changes have been saved successfully. Everything looks great!!! This is the description field.</string>
+    <string name="success_icon_description">Success</string>
+    <string name="feedback_error_message">Error Message</string>
+    <string name="feedback_error_message_1">Error Message \nAn error occurred while processing your request. Please try again later.</string>
+    <string name="error_icon_description">Error</string>
+    <string name="warning_message">Warning message</string>
+    <string name="feedback_warning_message">Warning message \nYour session is about to expire. Please save your work.</string>
+    <string name="warning_icon_description">Warning</string>
+    <string name="info_message">Info message</string>
+    <string name="feedback_info_message">Info message \nNew updates are available! Check the latest features in settings.</string>
+    <string name="info_icon_description">Info</string>
+    <string name="dismiss">Dismiss</string>
+    <!--Fulfillment Helpers-->
+    <string name="clock_icon_content_description">Clock Icon</string>
+    <string name="check_icon_content_description">Check Icon</string>
+
+    <!--Bottom Button Container-->
+    <string name="bottom_button_container">Bottom Button Container</string>
+    <string name="bottom_button_container_primary">Container with Only Primary Button</string>
+    <string name="bottom_button_container_primary_secondary">Container with Primary Button and Secondary Button</string>
+    <string name="bottom_button_container_primary_tertiary_vertical">Container with Primary and Tertiary Button aligned Vertically</string>
+    <string name="bottom_button_container_all">Container with Primary, Secondary Button aligned Vertically and Caption Text</string>
+    <string name="bottom_button_container_primary_caption">Container with Primary Button and Caption Text</string>
+
+    <!--Date Selector Horizontal Screen-->
+    <string name="date_horizontal_scroll_view">Date Selector</string>
+    <string name="date_horizontal_scroll_view_title">Month</string>
+    <string name="day_count_label">Day Limit: %1$d</string>
+    <!--Time Slot Selector Component-->
+    <string name="time_slot_selector_title">Time Slot Selector</string>
+
+    <string name="date_selector">Date Selector</string>
+    <string name="time_slot_selector">Time Selector</string>
+
+    <string name="normal_timeslot">Normal</string>
+    <string name="express_timeslot">Express</string>
+    <string name="asap_timeslot">ASAP</string>
+    <string name="shimmer_timeslot">Loading</string>
+
+</resources>

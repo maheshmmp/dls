@@ -1,0 +1,16 @@
+repos:
+  - repo: local
+    hooks:
+      - id: semgrep
+        name: Run Semgrep
+        entry: ./semgrep-hook.sh
+        language: script
+        pass_filenames: false
+        require_serial: true
+
+      - id: ktlint
+        name: Run ktlint
+        entry: ./ktlint-hook.sh
+        language: script
+        pass_filenames: false
+        require_serial: true
