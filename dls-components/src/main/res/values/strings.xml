@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">UICart</string>
+    <string name="not_connected">⚠️ You aren’t connected to the internet</string>
+
+    <string name="normal_text">This is a normal text view</string>
+    <string name="bold_text">This is a bold text view</string>
+    <string name="underlined_text">This is an underlined text view</string>
+    <string name="hyperlink_text">This is a hyperlink styled text view</string>
+
+    <!--Preview Helpers-->
+    <string name="topappbar">HEADER</string>
+    <string name="accessibility_title">%1$s</string>
+    <string name="preview_navigation_icon">Go Back</string>
+    <string name="back">Back</string>
+    <string name="preview_action_icon">Action icon</string>
+    <string name="section_title_account">Account Section</string>
+    <string name="button">Button</string>
+    <string name="section_terms_of_use">Terms of Use</string>
+    <string name="section_description">Description</string>
+
+    <!--Countdown Timer Banner Helpers-->
+    <string name="countdown_timer_content_description">Countdown Timer</string>
+    <string name="countdown_days">Days</string>
+    <string name="countdown_hours">Hours</string>
+    <string name="countdown_minutes">Min</string>
+    <string name="countdown_seconds">Sec</string>
+    <string name="countdown_colon">:</string>
+
+    <!--Empty Cart  Helpers-->
+    <string name="empty_cart_lengthy_description_text_demo">This is the longest text for testing the length truncation and wrapping of the description content in the body line.This is the longest text for testing the length truncation and wrapping of the text content in the body line.This is the longest text for testing the length truncation and wrapping of the text content in the body line.</string>
+    <string name="empty_cart_lengthy_title_text_demo">This is the longest text for testing the length truncation and wrapping of the title content.</string>
+    <string name="empty_cart_order_ahead_title">Add an Item to get Started.</string>
+    <string name="empty_cart_order_ahead_body">Looks like your order is empty, browse our menu to find the perfect drink and bite to eat.</string>
+    <string name="empty_cart_no_order_title">No Orders yet!</string>
+    <string name="empty_cart_no_order_body">Looks like you don’t have any orders to review yet. Check back here to review past and current orders, reorder items, and more!</string>
+    <string name="empty_cart_your_cart_title">Your cart is currently empty</string>
+    <string name="empty_cart_your_cart_body">Once you add items you can add product notes and manage substitution preferences before you checkout. </string>
+    <string name="empty_cart_still_cooking_title">Still Cooking!</string>
+    <string name="empty_cart_still_cooking_body">Let us notify you when your special offers are ready!</string>
+    <string name="empty_cart_no_address_title">No addresses on file</string>
+    <string name="empty_cart_no_address_body">Store multiple addresses for easier checkout.</string>
+    <string name="empty_cart_list_empty_title">No items in your list yet!</string>
+    <string name="empty_cart_list_empty_body">Add your favorites to a list to make shopping easy every time.</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <!--Address Book Cart Helpers-->
+    <string name="search_icon_content_description">Search Icon</string>
+    <string name="barcode_read_icon_content_description">Barcode Read Icon</string>
+    <string name="close_icon_content_description">Close Icon</string>
+    <string name="searchbar_placeholder">What can we help you find?</string>
+    <string name="light_header">Light Header</string>
+    <string name="dark_header">Dark Header</string>
+    <string name="neutral">Neutral</string>
+    <string name="light">Light</string>
+    <string name="location_icon_content_description">Location Icon</string>
+
+    <!--BottomButton Container-->
+    <string name="bottom_button_container_primary_button">Primary</string>
+    <string name="bottom_button_container_secondary_button">Secondary</string>
+    <string name="bottom_button_container_secondary_button1">Secondary CTA</string>
+    <string name="bottom_button_container_description">*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet in</string>
+    <string name="bottom_button_container_transparent">Transparent</string>
+    <string name="store_info">Store info</string>
+    <string name="add">Add</string>
+
+    <!--Fulfillment Helpers-->
+    <string name="chevron_right_icon_content_description">Chevron Right</string>
+
+    <string name="success_close_button_description">Success close</string>
+    <string name="error_close_button_description">Error close</string>
+    <string name="warning_close_button_description">Warning close</string>
+    <string name="info_close_button_description">Info close</string>
+    <!--Date Selector Helpers-->
+    <string name="date_selector_slot_free">Free</string>
+    <string name="date_selector_slot_sold_out">Sold Out</string>
+    <string name="date_selector_content_description">Badged Box for Date Selector</string>
+
+    <!--Time Slot Selector Helpers-->
+    <string name="time_slot_selector_radio_button_description">Radio button to give the selection for the time slot</string>
+    <string name="time_slot_selector_header_icon_description">Heading Icon</string>
+</resources>
